@@ -2,8 +2,8 @@
 <h3 align="center">A devloper with a bachelors in IT and Information-Systems from UIA.</h3>
 
 ---
-
-<p align="center">
+>
+><p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=trivinyx" alt="trivinyx" />
   </a>
