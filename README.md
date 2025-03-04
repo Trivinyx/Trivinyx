@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-<img align="Left", alt="Tom's GitHub stats" src="https://github-readme-stats-trivinyxs-projects.vercel.app/api?username=trivinyx&theme=dark&show_icons=true"/>
+<img align="Left" alt="Tom's GitHub stats" src="https://github-readme-stats-trivinyxs-projects.vercel.app/api?username=trivinyx&theme=dark&show_icons=true"/>
 
 
 <!--
