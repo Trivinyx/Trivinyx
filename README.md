@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=trivinyx" alt="trivinyx" />
+    <img src="https://github-profile-trophy.vercel.app/?username=trivinyx&theme=onedark" alt="trivinyx" />
   </a>
 </p>
 
