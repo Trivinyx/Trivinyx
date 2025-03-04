@@ -2,14 +2,12 @@
 <h3 align="center">A devloper with a bachelors in IT and Information-Systems from UIA.</h3>
 
 ---
->
-><p align="center">
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=trivinyx" alt="trivinyx" />
   </a>
 </p>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -85,9 +83,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
 </p>
-
 ---
-
 <div>
   <img height=200 align="center" alt="Tom's GitHub stats" src="https://github-readme-stats-trivinyxs-projects.vercel.app/api?username=trivinyx&theme=dark&show_icons=true&include_all_commits=true"/>
   <img height=200 align="center" alt="Most used Languages List" src="https://github-readme-stats-trivinyxs-projects.vercel.app/api/top-langs/?username=trivinyx&layout=compact&langs_count=8&card_width=320&theme=dark&hide=html&&size_weight=0.5&count_weight=0.5" />
